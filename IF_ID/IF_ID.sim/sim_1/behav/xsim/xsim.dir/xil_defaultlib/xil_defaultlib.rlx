@@ -1,0 +1,15 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/MyVivado/experiment2/IF_ID/IF_ID.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sim_1/new/IF_ID_tb.v,1713407838,verilog,,,,IF_ID_tb,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/ip/inst_ram/sim/inst_ram.v,1713257568,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/aludec.v,,inst_ram,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/aludec.v,1713257965,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/controller.v,,aludec,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/controller.v,1713257964,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/maindec.v,,controller,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/display.v,1713257964,verilog,,,,display,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/maindec.v,1713257965,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/pc_add.v,,maindec,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/pc_add.v,1713408240,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/pc_model.v,,pc_add,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/pc_model.v,1713408730,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/top.v,,pc_model,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/seg7.v,1713257964,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/display.v,,seg7,,,,,,,,
+D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sources_1/new/top.v,1713269028,verilog,,D:/MyVivado/experiment2/IF_ID/IF_ID.srcs/sim_1/new/IF_ID_tb.v,,top,,,,,,,,
